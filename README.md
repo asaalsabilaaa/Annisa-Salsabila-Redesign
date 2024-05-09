@@ -20,7 +20,7 @@ Untuk membuat file HTML menggunakan Visual Studio Code (VSCode), dapat mengikuti
    - Beri nama file dengan ekstensi `.html`, misalnya `index.html`. Kita bisa langsung mengetikkan nama file tersebut di bilah judul file yang baru dibuat.
 
 5. **Mulai Menulis Kode HTML:**
-   - Setelah file `index.html` atau sesuai dengan nama yang kita berikan dibuka, Anda dapat mulai menulis kode HTML di dalamnya.
+   - Setelah file `index.html` atau sesuai dengan nama yang kita berikan dibuka, Kita dapat mulai menulis dan membuat kode HTML di dalamnya, berikut adalah kode sederhana dari html.
 
    ```html
    <!DOCTYPE html>
@@ -38,7 +38,7 @@ Untuk membuat file HTML menggunakan Visual Studio Code (VSCode), dapat mengikuti
    ```
    
 6. **Simpan File:**
-   - Setelah menulis kode HTML, Anda perlu menyimpan perubahan tersebut. Tekan `Ctrl + S` (Windows/Linux) atau `Cmd + S` (Mac) untuk menyimpan file.
+   - Setelah menulis kode HTML, Kita perlu menyimpan perubahan tersebut. Tekan `Ctrl + S` (Windows/Linux) atau `Cmd + S` (Mac) untuk menyimpan file.
 
 7. **Pratinjau (Opsional):** Anda dapat melihat pratinjau halaman HTML yang telah Anda buat dengan menggunakan fitur "Open in Browser" pada VSCode atau dengan membuka file HTML di browser seperti Google Chrome, Mozilla Firefox, atau browser lainnya.
 
