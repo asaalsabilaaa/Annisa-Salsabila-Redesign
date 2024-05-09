@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>e-Samsat</title>
+    <style>
+        /* Reset CSS */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        /* Navbar Style */
+        
+        .navbar {
+         display: flex;
+         justify-content: space-between;
+         align-items: center;
+         background-color: #f2f2f2;
+         color: #fff;
+         padding: 10px 20px;
+        }
+
+        /* Navbar Links Style */
+        
+        .navbar a {
+         color: black;
+         text-decoration: none;
+         margin: 0 10px;
+         transition: padding 0.3s, color 0.3s;
+        }
+        /* Style for "Info Publik," "Artikel," "Tentang," dan "Daerah" links */
+        .navbar a:nth-child(1), /* Info Publik */
+        .navbar a:nth-child(2), /* Artikel */
+        .navbar a:nth-child(3), /* Tentang */
+        .navbar a:nth-child(4) { /* Daerah */
+         background-color: #80bef5;
+         color: black;
+         padding: 10px 20px;
+         border-radius: 5px;
+         transition: background-color 0.3s, color 0.3s;
+        }
+
+        .navbar a:nth-child(1):hover,
+        .navbar a:nth-child(2):hover,
+        .navbar a:nth-child(3):hover,
+        .navbar a:nth-child(4):hover {
+         background-color: #80bef5; /* Ubah warna latar belakang saat hover */
+         color: black; /* Ubah warna teks saat hover */
+        }
+
+        /* Header Style */
+        .header {
+            text-align: center;
+            background-color: #f8f8f8;
+            padding: 50px 0;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        /* Main Content Style */
+        .content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            padding: 50px;
+        }
+
+        .content-item {
+            margin: 10px;
+            padding: 20px;
+            background-color: #f2f2f2;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            width: 300px;
+            text-align: center;
+        }
+
+        .content-item input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .content-item button {
+            padding: 10px 20px;
+            background-color:  #80bef5;
+            color: black ;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        /* Additional Styles */
+        .info-container {
+            margin-top: 50px;
+            text-align: center;
+        }
+
+        .info-container h2 {
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+        }
+
+        .info-container p {
+            margin-bottom: 10px;
+        }
+
+        .article-container {
+            margin-top: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .article-item {
+            margin: 10px;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            width: 300px;
+            text-align: center;
+        }
+
+        .article-item h3 {
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .article-item p {
+            margin-bottom: 10px;
+        }
+
+        /* Footer Style */
+        .footer {
+            background-color: #f2f2f2;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .footer a {
+            color:#f2f2f2;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        .footer img {
+            width: 50px;
+            height: 50px;
+            margin: 0 10px;
+            border-radius: 50%;
+            transition: transform 0.3s ease;
+        }
+
+        .footer img:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navbar -->
+    <div class="navbar">
+        <div class="logo"><img src="https://e-samsat.id/assets/img/logo.png" alt="Logo e-Samsat" style="width: 60px; height: 60px;"></div>
+        <div class="nav-links">
+            <a href="#">Info Publik</a>
+            <a href="#">Artikel</a>
+            <a href="#">Tentang</a>
+            <a href="#">Daerah</a>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <div class="header">
+        <h1>Selamat Datang di e-Samsat</h1>
+        <p>Temukan layanan berkualitas untuk pembayaran pajak kendaraan Anda.</p>
+    </div>
+
+    <!-- Additional Info Container -->
+    <div class="info-container">
+        <h2>Cara Mengecek Data Pajak</h2>
+        <p>Anda dapat mengecek data pajak kendaraan Anda dengan mengikuti langkah-langkah berikut:</p>
+        <ol>
+            <li>Masukkan format plat, nomor, seri, no rangka, dan provinsi kendaraan Anda pada kolom yang disediakan di atas.</li>
+            <li>Klik tombol "Cari Data Pajak" untuk melihat hasilnya.</li>
+        </ol>
+    </div>
+
+
+    <!-- Main Content -->
+    <div class="content">
+        <div class="content-item">
+            <h2>Format Plat</h2>
+            <input type="text" placeholder="Masukkan format plat">
+        </div>
+        <div class="content-item">
+            <h2>Nomor</h2>
+            <input type="text" placeholder="Masukkan nomor">
+        </div>
+        <div class="content-item">
+            <h2>Seri</h2>
+            <input type="text" placeholder="Masukkan seri">
+        </div>
+        <div class="content-item">
+            <h2>No Rangka</h2>
+            <input type="text" placeholder="Masukkan no rangka">
+        </div>
+        <div class="content-item">
+            <h2>Provinsi</h2>
+            <input type="text" placeholder="Masukkan provinsi">
+        </div>
+        <div class="content-item">
+            <button>Cari Data Pajak</button>
+        </div>
+    </div>
+
+    <!-- Latest Articles Container -->
+    <div class="article-container">
+        <div class="article-item">
+            <h3>Pemutihan Pajak Kendaraan Bermotor di Medan Terbaru 2024.</h3>
+            <p> Read More </p>
+        </div>
+        <div class="article-item">
+            <h3>Inilah Jadwal Pemutihan Pajak Kendaraan di Kota Surabaya 2024. </h3>
+            <p> Read More</p>
+        </div>
+        <div class="article-item">
+            <h3>Inilah Jadwal Pemutihan Pajak Kendaraan di Kota Probolinggo 2024.</h3>
+            <p> Read More  </p>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        <a href="#"><img src="https://e-samsat.id/assets/img/logo.png" alt="Logo e-Samsat" style="width: 45px; height: 45px"></a>
+        <a href="#"><img src="https://i.pinimg.com/736x/e1/44/3a/e1443a113b36091f92af77230e9414fa.jpg" alt="Facebook" style="width: 30px; height: 30px ></a>
+        <a href="#"><img src="https://i.pinimg.com/564x/cc/31/6f/cc316f97197528e5e26e613a93ab16a4.jpg" alt="Twitter" style="width: 30px; height: 30px ></a>
+        <a href="#"><img src="https://i.pinimg.com/564x/f4/1e/2d/f41e2dab621c1ee5253cef74e3642fcf.jpg" alt="Instagram" style="width: 30px; height: 30px ></a>
+        <a href="#"><img src="https://i.pinimg.com/564x/3a/36/20/3a36206f35352b4230d5fc9f17fcea92.jpg" alt="YouTube"style="width: 30px; height: 30px ></a>
+    </div>
+</body>
+
+</html>
