@@ -46,7 +46,6 @@ Untuk membuka pratinjau menggunakan fitur "Open in Browser" di VSCode:
 - Klik kanan pada file HTML di panel Explorer.
 - Pilih "Open in Default Browser" atau pilih browser spesifik yang Anda inginkan.
 
-![Alt Text]([url_gambar](https://github.com/asaalsabilaaa/Annisa-Salsabila-Redesign/blob/main/Media/Screenshot%20(931).png)
-![Alt Text]([url_gambar](https://github.com/asaalsabilaaa/Annisa-Salsabila-Redesign/blob/main/Media/Screenshot%20(932).png)
+![Gambar Redesign Web]([example.png](https://github.com/asaalsabilaaa/Annisa-Salsabila-Redesign/blob/main/Media/Screenshot%20(931).png)
 
 Mungkin Sekian, Hope this is can help u and good Luck if u trying to follow the step above, Fightingg!
