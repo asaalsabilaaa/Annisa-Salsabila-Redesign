@@ -48,5 +48,7 @@ Untuk membuka pratinjau menggunakan fitur "Open in Browser" di VSCode:
 
 ![Hasil](https://raw.githubusercontent.com/asaalsabilaaa/Annisa-Salsabila-Redesign/main/Media/Screenshot%20(931).png)
 
+![Annisa Salsabila](https://github.com/asaalsabilaaa/Annisa-Salsabila-Redesign/blob/main/Media/Screenshot%20(932).png)
+
 
 Mungkin Sekian, Hope this is can help u and good Luck if u trying to follow the step above, Fightingg!
