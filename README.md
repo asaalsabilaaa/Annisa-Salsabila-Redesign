@@ -64,6 +64,6 @@ Before :
 After : 
 ![Hasil](https://github.com/asaalsabilaaa/Annisa-Salsabila-Redesign/blob/main/Media/Screenshot%20(939).png)
 
-- Pada bagian body dan footer nya saya men-cut cukup banyak karena menurut saya orang yang mengakses web ini tujuan utamanya adalah mengecek pajak mereka, maka dari itu saya memfokuskan redesign web pada kolom yang harus reader isi. Dan juga saya menaikkan text cara mengecek data pajak agar reader membaca hal itu terlebih dahulu sebelum mengisi kolom dan juga pada bagian artikel saya buatkan container agar tampilannya lebih tersusun rapih dan juga bagus untuk dilihat, pada bagian akhir yaitu footer saya menambahkan icon social media sehingga reader yang mengakses dapat lebih mudah mengetahui lebih banyak mengenai E-samsat dengan mengakses social medianya.
+- Pada bagian body dan footer nya saya men-cut cukup banyak karena menurut saya orang yang mengakses web ini tujuan utamanya adalah mengecek pajak mereka, maka dari itu saya memfokuskan redesign web pada kolom yang harus reader isi. Lalu saya menaikkan text cara mengecek data pajak agar reader membaca hal itu terlebih dahulu sebelum mengisi kolom dan pada bagian artikel saya buatkan container agar tampilannya lebih tersusun rapih dan juga bagus untuk dilihat, pada bagian akhir yaitu footer saya menambahkan icon social media sehingga reader yang mengakses dapat lebih mudah mengetahui lebih banyak mengenai E-samsat dengan mengakses social medianya.
 
 Mungkin Sekian, Hope this is can help u and good Luck if u trying to follow the step above, Fightingg!
