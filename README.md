@@ -54,7 +54,16 @@ Before :
 After :
 ![After_1](https://github.com/asaalsabilaaa/Annisa-Salsabila-Redesign/blob/main/Media/Screenshot%20(938).png)
 
+- Disini saya mengubah tampilan website pada bagian navbar, menurut saya di web aslinya itu bagian navbarnya kurang eye-catching dan juga ketika cursor diarahkan pada navbar maka tulisannya akan berubah warna menjadi hijau dimana menurut saya itu kurang cocok dengan logo E-samsat itu sendiri yang berwarna biru, sehingga saya mengubahnya dan menambahkan latar biru.
 
+Before :
+ ![Hasil](https://github.com/asaalsabilaaa/Annisa-Salsabila-Redesign/blob/main/Media/Screenshot%20(941).png)
+ ![Hasil](https://github.com/asaalsabilaaa/Annisa-Salsabila-Redesign/blob/main/Media/Screenshot%20(942).png)
+ ![Hasil](https://github.com/asaalsabilaaa/Annisa-Salsabila-Redesign/blob/main/Media/Screenshot%20(943).png)
 
+After : 
+![Hasil](https://github.com/asaalsabilaaa/Annisa-Salsabila-Redesign/blob/main/Media/Screenshot%20(939).png)
+
+- Pada bagian body dan footer nya saya men-cut cukup banyak karena menurut saya orang yang mengakses web ini tujuan utamanya adalah mengecek pajak mereka, maka dari itu saya memfokuskan redesign web pada kolom yang harus reader isi. Dan juga saya menaikkan text cara mengecek data pajak agar reader membaca hal itu terlebih dahulu sebelum mengisi kolom dan juga pada bagian artikel saya buatkan container agar tampilannya lebih tersusun rapih dan juga bagus untuk dilihat, pada bagian akhir yaitu footer saya menambahkan icon social media sehingga reader yang mengakses dapat lebih mudah mengetahui lebih banyak mengenai E-samsat dengan mengakses social medianya.
 
 Mungkin Sekian, Hope this is can help u and good Luck if u trying to follow the step above, Fightingg!
